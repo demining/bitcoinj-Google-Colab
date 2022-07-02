@@ -95,3 +95,10 @@ If you want to develop or test your app with a [Jitpack](https://jitpack.io)-pow
 
 * [master](https://jitpack.io/#bitcoinj/bitcoinj/master-SNAPSHOT) branch
 * [release-0.15](https://jitpack.io/#bitcoinj/bitcoinj/release-0.15-SNAPSHOT) branch
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
